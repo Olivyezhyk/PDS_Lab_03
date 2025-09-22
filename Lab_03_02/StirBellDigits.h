@@ -8,7 +8,7 @@ using namespace std;
 
 class StirBellDigits {
 private:
-	const unsigned int i = 4;
+	const unsigned int i = 2;
 	unsigned int N = i + 5;
 
 	vector<vector<unsigned int>> F;

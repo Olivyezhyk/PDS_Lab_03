@@ -1,5 +1,4 @@
-﻿  pch.cpp
-  UnitTest2.cpp
+﻿  UnitTest2.cpp
 C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №3\Lab_03\Lab_03_02\StirBellDigits.cpp(19,13): warning C4018: '>=': signed/unsigned mismatch
   (compiling source file '/UnitTest2.cpp')
   
@@ -16,5 +15,4 @@ C:\Users\olegs\Desktop\Проекти\Програмування дискрет�
 C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №3\Lab_03\Lab_03_02\StirBellDigits.cpp(42,39): warning C4267:         ]
   (compiling source file '/UnitTest2.cpp')
   
-     Creating library C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №3\Lab_03\x64\Debug\UnitTest2.lib and object C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №3\Lab_03\x64\Debug\UnitTest2.exp
   UnitTest2.vcxproj -> C:\Users\olegs\Desktop\Проекти\Програмування дискретних структур\Лабораторна робота №3\Lab_03\x64\Debug\UnitTest2.dll
